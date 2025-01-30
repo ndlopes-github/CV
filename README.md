@@ -253,5 +253,3 @@ at the Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lis
 - **Programming Languages**: Julia, Python, R, C/C++.
 - **Languages**: English (good levels of reading, writing, and conversation).
 
-## License
-This project is licensed under the terms of the [MIT License](LICENSE).
