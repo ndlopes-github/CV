@@ -213,5 +213,45 @@ Teaching (and/or lecturing) in a theoretical-practical regime of the following c
 - Mathematical Modeling Seminar;
 at the Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa.
 
+- **2002 – 2002 [ESTG-IPB]**: Teaching in a practical regime of the courses of Mathematical Analysis I and Linear Algebra and Analytical Geometry, Escola Superior de Tecnologia e Gestão, Instituto Politécnico de Bragança.
+- **2001 – 2002 [FCT-UNL]**: Teaching in a practical regime of the course Mathematical Analysis I at the Faculdade de Ciências e Tecnologia, Universidade Nova de Lisboa.
+- **2000 – 2001 [FCUL]**: Teaching in a practical regime of the courses Algebra and Applications I and II at the Faculdade de Ciências, Universidade de Lisboa.
+
+## Course Support Texts
+- **2017**: N. D. Lopes, Numerical Methods: Practical Notes, Course of Introduction to Numerical Analysis in the Bachelor’s Degree in Applied Mathematics to Technology and Business at the Department of Mathematics, Instituto Superior de Engenharia de Lisboa.
+- **2016**: N. D. Lopes, Introduction to Numerical Calculus with Python, Course of Numerical Calculus in the Bachelor’s Degree in Chemical and Biological Engineering at the Department of Chemical Engineering, Instituto Superior de Engenharia de Lisboa.
+- **2016**: N. D. Lopes, R. Enguiça, I. Coelho, and P. Simões, Elementary Functions - I, Course of Elementary Functions - I for the "Maiores de 23"preparatory course at the Department of Mathematics, Instituto Superior de Engenharia de Lisboa.
+- **2015**: N. D. Lopes, Introduction to Numerical Calculus with Python, Course of Numerical Calculus in the Bachelor’s Degree in Chemical and Biological Engineering at the Department of Chemical Engineering, Instituto Superior de Engenharia de Lisboa.
+
+## Jury
+- **2024**: Member (arguer) of the Master’s Exam Jury of Cristian Robu. Professional Internship Report performed at “Infraestruturas de Portugal”, titled “The Use of Artificial Intelligence in the Recognition of Railway Assets Based on High-Resolution Drone Images”, classification of 18 (eighteen) points.
+- **2024**: Member of jury for competition # 4603 for the award of two Research Initiation Grants (BII) at FCiências.ID - Associação Para a Investigação e Desenvolvimento de Ciências, within the project “UIDP/04621/2020”, doi:[10.54499/UIDP/04621/2020](https://doi.org/10.54499/UIDP/04621/2020).
+- **2023**: Member of jury for PhD scholarship in the area of Digitalization and Artificial Intelligence -- Computer Science/Mathematics, awarded under the Collaboration Protocol for the Financing of the Multiannual Plan of Research Scholarships for Doctoral Students, signed between FCT and IPS. Announcement of January 25, 2023, IPS.
+- **2022**: Member of jury for competition for the award of a Research Initiation Grant, reference IPL/2022/3A_ISEL/BII/5M, within the Scientific and Technological Research Project 3A -- AdaptiveAllocApp, fully funded by the Institute of Polytechnic of Lisbon.
+- **2022**: President of jury for competition for the award of a Research Initiation Grant, reference IPL/2022/3A_ISEL/BII/4M, within the Scientific and Technological Research Project 3A -- AdaptiveAllocApp, fully funded by the Institute of Polytechnic of Lisbon.
+- **2022**: President of jury for the internship defense of Maria Silva, LMATE Internship --  Milestone, July 26, 2022, Department of Mathematics, Instituto Superior de Engenharia de Lisboa.
+- **2021**: Arguer for the internship defense of Ricardo Dias, LMATE Internship --  Arquiled, July 2021, Department of Mathematics, Instituto Superior de Engenharia de Lisboa.
+- **2020**: President of jury for the internship defense of Carolina Figueiredo, LMATE Internship -- AdTA, February 13, 2020, Department of Mathematics, Instituto Superior de Engenharia de Lisboa.
+- **2020**: President of jury for the internship defense of Catarina Ferreira, LMATE Internship -- CML, February 11, 2020, Department of Mathematics, Instituto Superior de Engenharia de Lisboa.
+- **2019**: President of jury for the internship defense of Rafaela Couchinho, LMATE Internship–GALP, July 9, 2019, Department of Mathematics, Instituto Superior de Engenharia de Lisboa.
+
+## Scientific Promotion and Dissemination Activities
+
+- **2018**: N. D. Lopes, “Waves, Pollutants and Turbulence”, communication at the Open Week of Instituto Superior de Engenharia de Lisboa, February 20-23, 2018.
+- **2017**: N. D. Lopes and N. Santos, “Mathematics in Big Wave Surfing – Forecasting and Modeling”, invited lecture at the Summer School of the Portuguese Mathematical Society & MatOeste.
+- **2017**: Mathematics of the Sea, ESTG, Instituto Politécnico de Leiria, July 13, 2017.
+- **2017**: N. D. Lopes, “Some Analytical and Numerical Models for the Generation and Propagation of Surface Ocean Waves”, invited communication at the lecture “Our Oceans, Our Future”, Instituto Superior de Engenharia de Lisboa, June 22, 2017.
+- **2016**: N. D. Lopes, “Introduction to Python for LMATE”, seminar in the Bachelor’s course in Mathematics Applied to Technology and Business, Instituto Superior de Engenharia de Lisboa, October 12, 2016.
+- **2015**: N.D. Lopes, “Some Numerical Simulations with the Finite Element Method: Convection-Diffusion; Boussinesq; Navier-Stokes”, lecture in the Computational Fluid Mechanics course, Instituto Superior de Engenharia de Lisboa, by invitation of Prof. Doutor Pedro Patrício, December 10, 2015.
+- **2015**: Collaboration at the Department of Mathematics stand at the “Science and Technology Fair at ISEL”, exhibiting numerical simulations resulting from research work in Fluid Mechanics models, November 25, 2015.
+- **2015**: Collaboration at the “DIY” stand, organized by Prof. Doutor Tiago Charters de Azevedo, at the “Science and Technology Fair at ISEL”, exhibiting an audio synthesizer, November 25,2015.
+- **2015, 2016**: Collaboration as a representative of the Department of Mathematics of Instituto Superior de Engenharia de Lisboa at the 2015 and 2016 editions of the “Futurália” fair in Lisbon.
+- **2010, 2011, 2012**:N. D. Lopes, “Waves, Pollutants and Turbulence”, science dissemination seminar at the events: MatNova 2012, Mathematics at FCT 2011, and ExpoFCT 2010, Faculty of Sciences and Technology, Universidade Nova de Lisboa.
+- **2004, 2005**: N. D. Lopes, “Numerical Analysis of a Convection-Diffusion Model: Application to the Tagus Estuary”, science dissemination seminar at the courses Mathematics Alpha 2004 and Mathematics Alpha 2005, Faculty of Sciences, Universidade de Lisboa.
+
+# Other Information
+- **Programming Languages**: Julia, Python, R, C/C++.
+- **Languages**: English (good levels of reading, writing, and conversation).
+
 ## License
 This project is licensed under the terms of the [MIT License](LICENSE).
