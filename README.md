@@ -7,27 +7,20 @@ Lately, I have been conducting research in Industrial Mathematics, collaborating
 
 During my PhD, I created DOLFWAVE, a FEniCS-based library (C++ and Python) designed to solve surface water wave problems.
 
-Explore my work:
+## Explore my work:
 
-Numerical simulations using the Finite Element Method:
+### Numerical simulations using the Finite Element Method:
+- https://www.youtube.com/channel/UCFvEkGMsP_IoCOwNkKcReyA/videos
 
-https://www.youtube.com/channel/UCFvEkGMsP_IoCOwNkKcReyA/videos
+### Git Repositories:
+- https://github.com/ndlopes-github
+- https://bitbucket.org/dolfwave/
 
-Git Repositories:
-
-https://github.com/ndlopes-github
-
-https://bitbucket.org/dolfwave/
-
-Research profiles:
-
-https://www.researchgate.net/profile/N-Lopes
-
-https://orcid.org/0000-0001-9577-0347
-
-https://www.cienciavitae.pt//pt/3312-D2F4-EF2F
-
-https://cemat.tecnico.ulisboa.pt/member.php?project_id=4&member_id=216
+### Research profiles:
+- https://www.researchgate.net/profile/N-Lopes
+- https://orcid.org/0000-0001-9577-0347
+- https://www.cienciavitae.pt//pt/3312-D2F4-EF2F
+- https://cemat.tecnico.ulisboa.pt/member.php?project_id=4&member_id=216
 
 ---
 
