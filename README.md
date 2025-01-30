@@ -159,13 +159,59 @@ Faculty of Sciences, Universidade de Lisboa
 - **2008**: Collaborator in the group: Cooling of a rotor, problem presented by BioSafe in the 65th European Study Group with Industry, Faculty of Engineering, University of Porto, 2008, Porto, Portugal.
 - **2007**: Collaborator in the group: Brisa, problem presented by Brisa in the 60th European Study Group with Industry, ISEL, 2007, Lisbon, Portugal.
 
-### Technical-Scientific Reports
+## Technical-Scientific Reports
 - **2024 ESGI174**: A. Moura, I. Lopes, J. Matias, N. Lopes, and R. Enguiça, Optimization of Sole Production Scheduling, problem presented by SoftIdea at the 174th European Study Group with Industry (2023), Cambridge Open Engage, Mathematics in Industry Reports, 2024, DOI:[10.33774/miir-2024-zhmg5](https://doi.org/10.33774/miir-2024-zhmg5).
-- **2022 ESGI161**: A. Araújo, J. O. Cerdeira, N. Lopes, A. Moura, and E. Silva, Optimal Site Positioning, problem presented by Solvit at the 161st European Study Group with Industry (2022), Cambridge Open Engage, Mathematics in Industry Reports, 2023, DOI:10.33774/miir-2023-tkf3c.
+- **2022 ESGI161**: A. Araújo, J. O. Cerdeira, N. Lopes, A. Moura, and E. Silva, Optimal Site Positioning, problem presented by Solvit at the 161st European Study Group with Industry (2022), Cambridge Open Engage, Mathematics in Industry Reports, 2023, DOI:[10.33774/miir-2023-tkf3c](https://doi.org/10.33774/miir-2023-tkf3c).
 - **2019 ESGI155**: N. Ferreira, N. Alves, N. Lopes, P. Faria, and R. Barreira: Vipex Container Lid, problem presented by Vipex at the 155th European Study Group with Industry, reports of the Portuguese Study Groups, 155th European Study Group with Industry, 1 to 5 July, 2019, School of Health, Polytechnic Institute of Leiria, Leiria, Portugal.
 - **2018 ESGI140**: P. Amaral, S. Barbeiro, R. Barreira, M. Cruz, R. Enguiça, N. Lopes, M. McPhail, and F. Wechsung: Managing Start Waves for Mass Running Events, problem presented by Lap2Go, reports of the Portuguese Study Groups, 140th European Study Group with Industry, 4 to 8 June, 2018, Barreiro School of Technology, Polytechnic Institute of Setúbal, Barreiro, Portugal.
 - **2015 Würth Portugal**: N. D. Lopes, Profitability Optimization in Supply Chain: Problem presented by Würth Portugal to the Department of Mathematics, Instituto Superior de Engenharia de Lisboa, November 2015.
 - **2008 ESGI65**: I. Cruz, P. Freitas, and N. D. Lopes, Cooling of a Rotor, problem presented by BioSafe, reports of the Portuguese Study Groups, 65th European Study Group with Industry, 21 to 24 April, 2008, Centre of Mathematics, University of Porto, Portugal.
+
+## Scientific Projects
+- **2022 – 2023**: Team member with research role in the project 3A, Research, Development, Innovation, and Artistic Creation project of the Polytechnic Institute of Lisbon (IDI&CA), ref.:IPL/2022/3A_ISEL.
+- **2019 – 2020**: Coordinator of the project MathMould, Research, Development, Innovation, and Artistic Creation project of the Polytechnic Institute of Lisbon (IDI&CA), ref.: IPL/2019/MathMould_ISEL.
+- **2013 – 2014**: Team member with research role in the project PEst-OE/MAT/UI0209/2013, Strategic Project - UI 209 - 2013-2014.
+- **2011 – 2012**: Team member with research role in the project PEst-OE/MAT/UI0209/2011, Strategic Project - UI 209 - 2011-2012.
+- **2005 – 2009**: Team member with research role in the project POCI/MAT/60587/2004, Asymptotic Analysis Applied to the Mechanics of Continuous Media, FCT.
+## Community Cooperation Projects
+- **2015**: Technical-scientific advisor for the Profitability Optimization Project associated with the Service Contract of ISEL to Würth Portugal, September to December 2015.
+
+## Internship Supervisions in the Context of Industrial Mathematics
+- **2024 SOLVIT**: Inês Henriques, “Railway Signal Monitoring: An Algorithmic Approach for Improved Maintenance Strategies”, hosting institution: SOLVIT, grade 18, Master’s thesis in Applied Mathematics to Industry (MMAI), joint supervision with Eng. o Nuno Cota (SOLVIT), Prof. Filipe Cal (ISEL), November 2024, Department of Mathematics, Instituto Superior de Engenharia de Lisboa.
+- **2023 LNEC**: Bernardo Machado, “Numerical Modeling of Breakwaters for Slopes and Marginal Protection Structures. Case Studies: Sines Fishing Port and Praia da Vitória Port”, hosting institution: LNEC Portugal, grade 18, undergraduate internship in Applied Mathematics to Technology and Business (LMATE), joint supervision with Eng.a Ana Mendonça (LNEC), Prof. a Ana Filipa Prior (ISEL), September 2023, Department of Mathematics, Instituto Superior de Engenharia de Lisboa.
+- **2022 LNEC**: Nuno Moreira Morgado, “Calibration of the SWAN Numerical Model Based on Neural Networks”, hosting institution: LNEC Portugal, grade 16, undergraduate internship in Applied Mathematics to Technology and Business (LMATE), joint supervision with Eng. a Liliana Pinheiro (LNEC), Prof.a Ana Filipa Prior (ISEL), July 2022, Department of Mathematics, Instituto Superior de Engenharia de Lisboa.
+- **2022 SANDOMETAL**: Inês Morais, “Acoustic Behavior Model in Air Treatment Units”, hosting institution: Sandometal, grade 16, undergraduate internship in Applied Mathematics to Technology and Business (LMATE), joint supervision with Eng. o Rui Santos, (Sandometal), Eng. o Pedro Silva (Sandometal), Prof. Sérgio Lopes (ISEL), March 2022, Department of Mathematics, Instituto Superior de Engenharia de Lisboa.
+- **2021 CDRSP-IPLeiria**: Jan Marxen, “An Introduction to Scaffold Design Using Topology Optimization Methods”, CDRSP, grade 20, undergraduate internship in Applied Mathematics to Technology and Business (LMATE), joint supervision with Prof.a Dr. Paula Pascoal-Faria (CDRSP), Prof. Dr. Sérgio Lopes (ISEL), Prof. Dr. Tiago Charters de Azevedo (ISEL), July 2021, Department of Mathematics, Instituto Superior de Engenharia de Lisboa.
+- **2021 LNEC**: Catarina Marques Graça, “Validation of the SWAN Numerical Model Based on Statistical Comparison of Sea State Regimes”, hosting institution: LNEC Portugal, grade 18, undergraduate internship in Applied Mathematics to Technology and Business (LMATE), joint supervision with Eng.a Liliana Pinheiro (LNEC), Prof. a Ana Filipa Prior (ISEL), March 2021, Department of Mathematics, Instituto Superior de Engenharia de Lisboa.
+- **2020 CDRSP-IPLeiria**: Eurico Carnall Figueiredo, “An Introduction to Analytical and Numerical Methods for Computational Fluid Dynamics Simulation: Application to Water Assisted Injection Molding (WAIM)”, hosting institution: CDRSP, grade 17, undergraduate internship in Applied Mathematics to Technology and Business (LMATE), joint supervision with Prof. a Dr. Paula Pascoal-Faria (CDRSP), Prof. Dr. Ricardo Enguiça (ISEL), Prof. Dr. Tiago Charters de Azevedo (ISEL), July 2020, Department of Mathematics, Instituto Superior de Engenharia de Lisboa.
+- **2020 GALP**: Diogo Joaquim, “Predictive Modeling of Consumption in the Natural Gas Market of Portugal and Spain”, hosting institution: GALP Portugal, grade 18, undergraduate internship in Applied Mathematics to Technology and Business (LMATE), joint supervision with Prof. Dr. Ricardo Enguiça (ISEL), Eng. Gonçalo Monteiro (GALP), July 2020, Department of Mathematics, Instituto Superior de Engenharia de Lisboa.
+- **2020 LNEC**: Ana Rita Costa, “Analysis of the Operationality of the Port Terminal of S. Roque do Pico, Based on the General Sea State Regime”, hosting institution: LNEC, grade 16, undergraduate internship in Applied Mathematics to Technology and Business (LMATE), joint supervision with Prof. a Dr. Sandra Aleixo (ISEL), Eng. a Juana Fortes (LNEC), Eng. a Liliana Pinheiro (LNEC), February 2020, Department of Mathematics, Instituto Superior de Engenharia de Lisboa. 
+- **2019  GALP**: Ruben Sales, “Stock and Contracting Optimization and Capacity Planning”, hosting institution: GALP Portugal, grade 16, Bachelor’s thesis in Applied Mathematics to Technology and Business (LMATE), joint supervision with Prof. Doutor Ricardo Enguiça (ISEL), Eng. Gonçalo Monteiro (GALP), July 2019, Department of Mathematics, Instituto Superior de Engenharia de Lisboa.
+- **2019 Würth Portugal**: Pedro Ferreira, “Optimization of Prices and Margins, Würth Portugal”, grade 15, Bachelor’s thesis in Applied Mathematics to Technology and Business (LMATE), joint supervision with Prof. Doutor Tiago Charters de Azevedo (ISEL), Dr. Gonçalo Figueiredo (Würth Portugal) and Dr. Jorge Fernandes (Würth Portugal), July 2019, Department of Mathematics, Instituto Superior de Engenharia de Lisboa.
+
+# Pedagogical and Organizational Activities
+## Committees and Other Management Positions
+- **2018 – 2022 [ISEL-IPL]**: Member of the Coordinating Committee of the Bachelor’s Degree in Applied Mathematics to Technology and Business (CCLMATE), from June 2018 to May 2023.
+- **2018 – 2024 [ISEL-IPL]**: Responsible for the LMATE part of the LAB4MAT, computational laboratory of LMATE.
+- **2018 [ISEL-IPL]**: Member of the Founding Committee of the Digital Workshop (ODI), Instituto Superior de Engenharia de Lisboa, 2018.
+
+## Teaching Functions
+- **2002 – present [ISEL-IPL]**:
+Teaching (and/or lecturing) in a theoretical-practical regime of the following courses:
+- Linear Algebra and Analytical Geometry;
+- Mathematical Analysis I;
+- Mathematical Analysis II;
+- Vector Analysis;
+- Numerical Analysis;
+- Differential and Integral Calculus;
+- Differential and Integral Calculus II;
+- Numerical Calculus;
+- Complementary Mathematical Analysis;
+- Introduction to Numerical Analysis;
+- Applied Mathematics to Civil Engineering;
+- Applied Mathematics to Electrical Engineering;
+- Mathematical Modeling Seminar;
+at the Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa.
 
 ## License
 This project is licensed under the terms of the [MIT License](LICENSE).
