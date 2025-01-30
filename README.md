@@ -115,5 +115,31 @@ Faculty of Sciences, Universidade de Lisboa
 
 
 
+## Conference Organizing Committees
+
+- **2024**: Member of the organizing committee of the international conference: amim’24: autumn meeting for industrial mathematics, October 4-5, 2024, Foz do Arelho, Portugal
+- **2023**: Member of the organizing committee of the national conference: MATH’23: Networking Workshop, Instituto Superior de Engenharia de Lisboa, May 11-12, 2023, Lisbon, Portugal.
+- **2022**: Member of the local organizing committee of the international conference: ESGI161, jointly organized with the Portuguese network for Mathematics in Industry and Innovation – PT-MATHS-IN, Instituto Superior de Engenharia de Lisboa, September 4-9, 2022, Lisbon, Portugal.
+- **2022**: Member of the organizing committee of the national conference: LMATE’22: Networking Workshop, organized by the coordinating committee of LMATE-ISEL, Instituto Superior de Engenharia de Lisboa, May 5-6, 2022, Lisbon, Portugal.
+- **2020**: Member of the local organizing committee of the national conference: Workshop FromAcademy – preESGI 2020, jointly organized with the Portuguese network for Mathematics in Industry and Innovation – PT-MATHS-IN, Instituto Superior de Engenharia de Lisboa, January 22, 2020, Lisbon, Portugal.
+
+## Conference Scientific Committees
+
+- **2024**: Member of the scientific committee of the international conference: ESGI181, organized by the Portuguese network for Mathematics in Industry and Innovation – PT-MATHS-IN, July 8-12, 2024, UTAD, Vila Real, Portugal.
+- **2023**: Member of the scientific committee of the international conference: ESGI174, organized by the Portuguese network for Mathematics in Industry and Innovation – PT-MATHS-IN, July 3-7, 2023, ESTG-IPP, Felgueiras, Portugal.
+- **2018**: Member of the scientific committee of the international conference: Mathematics for Smart Security: Challenges and Opportunities, organized by the Portuguese network for Mathematics in Industry and Innovation PT-MATHS-IN, Instituto Superior de Engenharia de Lisboa, October 19, 2018, Lisbon, Portugal.
+
+## Oral Presentations at Conferences and Seminars
+- **2024**: N. D. Lopes, "CD-FEM solutions of fourth-order nonlinear models for the confinement of fluid flows", International Conference Mathematical Analysis and Applications in Science and Engineering: ICMASC24, June 20-22, Instituto Superior de Engenharia do Porto, Porto, Portugal.
+- **2022**: N. D. Lopes, “Alguns métodos e resultados numéricos sobre o confinamento de um fluido, a injecção assistida por água num molde e corridas urbanas”, Seminário de Física e Matemática, Departamento de Física, Instituto Superior de Engenharia de Lisboa, May 2, 2022.
+- **2021**: N. D. Lopes, “C/DG-FEM solutions of a fourth-order nonlinear model for the confinement of fluid flows”, joint work with H. B. de Oliveira, Encontro Nacional da Sociedade Portuguesa de Matemática 2021, July 16, 2021.
+- **2020**: E. C. Figueiredo (speaker), N. D. Lopes, Ricardo Enguiça, Tiago Charters de Azevedo, Rui Silva, Bruno Mendes, Artur Mateus, Nuno Alves and Paula Pascoal-Faria, “MathMould I&D Project: Analytical and Numerical Methods in Water Assisted Injection in Multi--Tubular Moulds”, poster with oral presentation by E. C. Figueiredo at RESIM – Research on Sustainable and Intelligent Manufacturing, International Virtual Conference, Politécnico de Leiria and Universitat Internacional de Catalunya, June 4-5, 2020.
+- **2017**: N. D. Lopes, “Analytical and Numerical Methods for some Improved Boussinesq Models for Surface Water Waves”, joint work with P. J. S. Pereira and L. Trabucho, Seminário de Análise do Centro de Matemática e Aplicações do Departamento de Matemática da Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa, March 15, 2017, Almada, Portugal.
+- **2015**: N. D. Lopes, “Analytical and Numerical Methods of the type FEM-C/D for Improved Boussinesq Models”, joint work with P. J. S. Pereira and L. Trabucho, Seminário de Matemática Aplicada e Análise Numérica do Centro de Matemática e Aplicações do Instituto Superior Técnico, July 16, 2015, Lisbon, Portugal.
+- **2012**: N. D. Lopes, “FEM solutions of some Boussinesq-type models for surface water waves”, joint work with P. J. S. Pereira and L. Trabucho, Seminários do Centro de Matemática da Universidade de Coimbra, July 11, 2012, Coimbra, Portugal.
+- **2012**: N. D. Lopes, “A numerical analysis of a class of KdV-BBM equations using Continuous/Discontinuous Galerkin Finite Element Method”, joint work with P. J. S. Pereira and L. Trabucho, MEFTE 2012, IV Conferência Nacional em Mecânica dos Fluidos, Termodinâmica e Energia, May 28-29, 2012, Laboratório Nacional de Engenharia de Lisboa, Lisbon, Portugal.
+- **2011**: N. D. Lopes, “Solutions of some improved Boussinesq-type models for surface water waves using finite element methods”, joint work with P. J. S. Pereira and L. Trabucho, Recent trends in hyperbolic and related PDEs: Theory, numerics and applications, October 21, 2011, Instituto para a Investigação Interdisciplinar, Universidade de Lisboa, Lisbon, Portugal.
+- **2011**: N. D. Lopes, “A C/DG-FEM solution of an improved fourth-order Boussinesq model for surface water waves”, joint work with P. J. S. Pereira and L. Trabucho, First European Meeting of PhD Students in Mathematics, June 28-29, 2011, LAMFA, Université de Picardie Jules Verne, Amiens, France.
+
 ## License
 This project is licensed under the terms of the [MIT License](LICENSE).
