@@ -22,6 +22,9 @@ During my PhD, I created DOLFWAVE, a FEniCS-based library (C++ and Python) desig
 - https://www.cienciavitae.pt//pt/3312-D2F4-EF2F
 - https://cemat.tecnico.ulisboa.pt/member.php?project_id=4&member_id=216
 
+### LinkedIn Profile:
+- https://www.linkedin.com/in/nuno-lopes-789b38a/
+
 ---
 
 ## Academic Background
