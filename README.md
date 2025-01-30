@@ -28,3 +28,29 @@ https://orcid.org/0000-0001-9577-0347
 https://www.cienciavitae.pt//pt/3312-D2F4-EF2F
 
 https://cemat.tecnico.ulisboa.pt/member.php?project_id=4&member_id=216
+
+## Academic Background
+- **PhD in Mathematics (Numerical Analysis),** Universidade Nova de Lisboa (2014)
+  - Dissertation: *Analytical and Numerical Methods of the Continuous and Continuous/Discontinuous Finite Element Type for the Study of Improved Boussinesq Models for Wave Propagation*
+- **Master’s in Mathematics (Functional Analysis and Differential Equations),** Universidade de Lisboa (2004)
+  - Thesis: *Application of the Finite Element Method in the Analysis of a Class of Convection-Diffusion Problems*
+- **Bachelor’s in Pure Mathematics,** Universidade de Lisboa (2000)
+
+## Professional Experience
+- **Adjunct Professor** (2014 – present), Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa
+- **Invited Assistant Professor** (2023 – 2024), Escola Superior de Tecnologia do Barreiro, Instituto Politécnico de Setúbal
+- **Assistant Professor** (2002 – 2014), Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa
+
+## Research Interests
+- Numerical methods for fluid mechanics models, particularly Boussinesq-type models for surface wave propagation
+- Industrial Mathematics, applied to real-world problems through collaborations with companies and institutions
+- Development of **DOLFWAVE** (C++ and Python), a FEniCS-based library for solving surface water wave problems
+
+## Research Team Involvement
+- **2022 – present:** Integrated member, Computational and Stochastic Mathematics Center, Universidade de Lisboa
+- **2015 – 2019:** Integrated member, Mathematics and Applications Center, Universidade Nova de Lisboa
+- **2009 – 2015:** Integrated member, Center for Fundamental Mathematics and Applications, Universidade de Lisboa
+
+
+## License
+This project is licensed under the terms of the [MIT License](LICENSE).
