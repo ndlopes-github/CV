@@ -53,8 +53,8 @@ Faculty of Sciences, Universidade de Lisboa
 
 ## Previous Activities and Current Situation
 
-- **2014 – Present**: Assistant Professor at Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa  
-- **2023 – 2024**: Invited Assistant Professor at Escola Superior de Tecnologia do Barreiro, Instituto Politécnico de Setúbal (1st semester of 2023/24)  
+- **2014 – Present**: Adjunct Professor at Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa  
+- **2023 – 2024**: Invited Adjunct Professor at Escola Superior de Tecnologia do Barreiro, Instituto Politécnico de Setúbal (1st semester of 2023/24)  
 - **2004 – 2014**: Assistant Professor (2nd Three-Year Period) at Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa  
 - **2002 – 2004**: Assistant Professor (1st Three-Year Period) at Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa  
 - **2002**: Assistant Professor (1st Three-Year Period) at Escola Superior de Tecnologia e Gestão, Instituto Politécnico de Bragança  
