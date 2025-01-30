@@ -82,7 +82,7 @@ Faculty of Sciences, Universidade de Lisboa
 - **2014 – 2015**: Collaborating member of the research team at the Mathematics and Applications Center, Universidade Nova de Lisboa  
 - **2007 – 2008**: Collaborating member of the research team at the Center for Fundamental Mathematics and Applications, Universidade de Lisboa  
 
-## Articles in International Peer-Reviewed Journals
+## Papers in International Peer-Reviewed Journals
 
 - **2024**: H. B. Oliveira and N. D. Lopes, *Continuous/Discontinuous Finite Element Approximation of a 2D Navier-Stokes Problem Arising in Fluid Confinement*, International Journal of Numerical Analysis and Modeling, Volume 21, Number 3, Pages 315–352, 2024, DOI: [10.4208/ijnam2024-1013](https://doi.org/10.4208/ijnam2024-1013)
 - **2023**: R. Enguiça and N. D. Lopes, *The modeling of urban races*, Journal of Mathematics in Industry, Springer, 2023, DOI: [10.1186/s13362-023-00136-3](https://doi.org/10.1186/s13362-023-00136-3)
