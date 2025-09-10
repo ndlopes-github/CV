@@ -79,7 +79,7 @@ Faculty of Sciences, Universidade de Lisboa
 - **2007 – 2008**: Collaborating member of the research team at the Center for Fundamental Mathematics and Applications, Universidade de Lisboa  
 
 ## Papers in International Peer-Reviewed Journals
-
+- **2025** A. Araújo, J. O. Cerdeira, N. D. Lopes and A. Moura, *Minimizing costs in signal provision by communication antennas along a railway line*, 4OR-Q J Oper Res , 2025, DOI: [10.1007/s10288-025-00599-7]{https://doi.org/10.1007/s10288-025-00599-7}
 - **2024**: H. B. Oliveira and N. D. Lopes, *Continuous/Discontinuous Finite Element Approximation of a 2D Navier-Stokes Problem Arising in Fluid Confinement*, International Journal of Numerical Analysis and Modeling, Volume 21, Number 3, Pages 315–352, 2024, DOI: [10.4208/ijnam2024-1013](https://doi.org/10.4208/ijnam2024-1013)
 - **2023**: R. Enguiça and N. D. Lopes, *The modeling of urban races*, Journal of Mathematics in Industry, Springer, 2023, DOI: [10.1186/s13362-023-00136-3](https://doi.org/10.1186/s13362-023-00136-3)
 - **2021**: N. D. Lopes and H. B. Oliveira, *Continuous/discontinuous Galerkin approximations for a fourth-order nonlinear problem*, Computers and Mathematics with Applications, **97**, Pages 122–152, Elsevier, 2021, DOI: [10.1016/j.camwa.2021.05.034](https://doi.org/10.1016/j.camwa.2021.05.034)
